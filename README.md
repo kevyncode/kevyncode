@@ -11,6 +11,7 @@ Oi! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy
   
   <div> 
  <div align="center">
+  <a href="https://www.youtube.com/channel/UCb912uf3zcQO8eDl34HpLNQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pkevyin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kevyndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
