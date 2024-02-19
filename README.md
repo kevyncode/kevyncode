@@ -1,7 +1,7 @@
 
 <hr>
 <h4 align="center">
-Oi! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <hr>
   
