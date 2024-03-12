@@ -17,14 +17,14 @@ Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
 </div>
   <hr>
     
-<hr>
  
  <div>
 <div align="center">
   <a href="https://github.com/kevyindev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyindev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+  <hr>
  
   <h4 align="center">
 Tecnologias que você encontrará por aqui
