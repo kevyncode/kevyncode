@@ -4,9 +4,11 @@ Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
 <hr>
   <div> 
  <div align="center">
-  <a href="https://www.instagram.com/pkeviyn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kevyindev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/kevyn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <h4 align="center"> Redes Sociais
+  <br>
+  <a href="https://www.instagram.com/pkeviyn/" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram-new"/></a>
+  <a href="https://www.linkedin.com/in/kevyindev" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discord.gg/kevyn" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord-logo"/></a>
 </div>
   <hr>
  <div>
