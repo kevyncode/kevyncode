@@ -18,11 +18,12 @@ Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <h4 align="center">
 Tecnologias que você encontrará por aqui
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/officel/48/000000/react.png" alt="react"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5--v1"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/python.png" alt="python"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c-sharp-logo"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 </div>
