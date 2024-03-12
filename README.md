@@ -2,13 +2,7 @@
 <hr>
 <h4 align="center">
 Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <hr>
-  
-  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-  
-  
-  
   <div> 
  <div align="center">
   <a href="https://www.instagram.com/pkeviyn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,17 +10,12 @@ Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <a href="https://discord.gg/kevyn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
   <hr>
-    
- 
  <div>
 <div align="center">
   <a href="https://github.com/kevyindev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyindev&layout=compact&langs_count=7&theme=dracula"/>
-  [![kevyindev/undefined - GitHub](https://gh-card.dev/repos/kevyindev/undefined.svg)](https://github.com/kevyindev/undefined)
 </div>
-
   <hr>
- 
   <h4 align="center">
 Tecnologias que você encontrará por aqui
 <div style="display: inline_block"><br>
