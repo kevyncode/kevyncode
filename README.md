@@ -1,11 +1,10 @@
 
-<h4 align="center">
+<h2 align="center">
 Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
-  <div> 
- <div align="center">
-  <h4 align="center"> Redes Sociais
+<h3 align="center"> Redes Sociais
   <br>
+ <div align="center">
   <a href="https://www.instagram.com/pkeviyn/" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram-new"/></a>
   <a href="https://www.linkedin.com/in/kevyindev" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://discord.gg/kevyn" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord-logo"/></a>
