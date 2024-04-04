@@ -1,31 +1,38 @@
 
-<h2 align="center">
-Olá! Eu sou Kevyn, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<hr>
- <div align="center">
-   <h4 align="center"> Redes Sociais
-  <br>
-  <a href="https://www.instagram.com/pkeviyn/" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram-new"/></a>
-  <a href="https://www.linkedin.com/in/kevyindev" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/kevyn" target="_blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord-logo"/></a>
+<h3 align="left">Hi, I'm Kevyn!
+ <br><br> </h3>
+ <p align="left">Student passionate about Front-End and Mobile development. Currently, I'm seeking opportunities to apply my knowledge and skills. I am an organized and committed individual who enjoys working in teams to achieve the best results. I am always eager to learn new technologies and keep up with market trends.
+ </p>
+ <div align="left">
+  <h3 align="left">Connect with me!</h3>
+
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kevyindev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kevyindev/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/pkeviyn/)
 </div>
-  <hr>
- <div>
-<div align="center">
-  <a href="https://github.com/kevyindev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevyindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyindev&layout=compact&langs_count=7&theme=dracula"/>
+  <h3 align="left">My Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
-  <hr>
-  <h4 align="center">
-Tecnologias que você encontrará por aqui
-<div style="display: inline_block"><br>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/officel/48/000000/react.png" alt="react"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5--v1"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/python.png" alt="python"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-</div>
+<h3>GitHub Stats</h3>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kevyindev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kevyindev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/mari4souza/github-readme-stats)
