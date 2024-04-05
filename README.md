@@ -1,6 +1,10 @@
 
 <h3 align="left">Hi, I'm Kevyn!
- <br><br> </h3>
+ <br> </h3>
+ <p>
+  💻 Software Engineering - Jala University <br>
+  👨‍💻 Front-End Developer
+ </p> <br>
  <p align="left">Student passionate about Front-End and Mobile development. Currently, I'm seeking opportunities to apply my knowledge and skills. I am an organized and committed individual who enjoys working in teams to achieve the best results. I am always eager to learn new technologies and keep up with market trends.
  </p>
  <div align="left">
