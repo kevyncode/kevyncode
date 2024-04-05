@@ -5,7 +5,6 @@
   Web Developer | Software Engineering Student 🇺🇸
  </p> <br>
  <p align="left">🇧🇷 Estudante apaixonado por desenvolvimento Front-End e Mobile. Atualmente, estou buscando oportunidades para aplicar meus conhecimentos e habilidades. Sou uma pessoa organizada e comprometida que gosta de trabalhar em equipe para alcançar os melhores resultados. Estou sempre ansioso para aprender novas tecnologias e acompanhar as tendências do mercado.</p>
- <br>
  <p align="left">🇺🇸 Student passionate about Front-End and Mobile development. Currently, I'm seeking opportunities to apply my knowledge and skills. I am an organized and committed individual who enjoys working in teams to achieve the best results. I am always eager to learn new technologies and keep up with market trends.
  </p>
  <div align="left">
