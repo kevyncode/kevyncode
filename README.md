@@ -6,7 +6,7 @@
 
 <p align="left">🇺🇸 With a strong passion for programming, I am seeking opportunities to enhance my skills and contribute to innovative projects.</p>
 
-### Onde me encontrar
+### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Kevyncode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyncode/)](https://www.linkedin.com/in/kevyncode/)
 [![Gmail Badge](https://img.shields.io/badge/-kevyncodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:kevyncodes@gmail.com)
