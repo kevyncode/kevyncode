@@ -1,50 +1,68 @@
-<h1>Kevyn Rodrigues</h1>
-<p align="left">
-  <strong>Web Developer | Software Engineering Student</strong> 🇺🇸
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">🇧🇷 Estudante apaixonado por desenvolvimento Front-End e Mobile. Atualmente, estou buscando oportunidades para aplicar meus conhecimentos e habilidades. Sou uma pessoa organizada e comprometida que gosta de trabalhar em equipe para alcançar os melhores resultados. Estou sempre ansioso para aprender novas tecnologias e acompanhar as tendências do mercado.</p>
+### Kevyn Rodrigues | Software Engineering Student 🇺🇸
 
-<p align="left">🇺🇸 Student passionate about Front-End and Mobile development. Currently, I'm seeking opportunities to apply my knowledge and skills. I am an organized and committed individual who enjoys working in teams to achieve the best results. I am always eager to learn new technologies and keep up with market trends.</p>
+<p align="left">🇧🇷 Com uma forte paixão pela Programação, estou em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
 
-<h3 align="left">🌐 Connect with me!</h3>
-<div align="left">
-  <a href="mailto:kevyindev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/kevyncode/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/pkeviyn/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000" alt="Instagram">
-  </a>
+<p align="left">🇺🇸 With a strong passion for programming, I am seeking opportunities to enhance my skills and contribute to innovative projects.</p>
+
+### Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Kevyncode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyncode/)](https://www.linkedin.com/in/kevyncode/)
+[![Gmail Badge](https://img.shields.io/badge/-kevyncodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:kevyncodes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/kevyncode?label=follow&style=social)](https://github.com/kevyncode)
+
+### My Skills
+
+```js
+import Desenvolvedor from "KevynCode";
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
+  bibliotecas = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
+  frameworks = ["React", "Flutter", "Angular", "Spring Boot"];
+  ferramentas = ["Git", "Docker"];
+  bancosDeDados = ["MySQL", "PostgreSQL", "MongoDB", "SQLite"];
+  }
+
+```
+
+### GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=kevyncode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<h3 align="left">🛠 My Stack</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="PostgreSQL logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker logo" />
-</p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kevyncode&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="Kevyn's GitHub stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kevyncode&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Kevyn's Most Used Languages" />
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/kevyncode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
 </p>
