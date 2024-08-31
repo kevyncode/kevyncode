@@ -20,11 +20,11 @@
 import Developer from "KevynCode";
 
 class Skills extends Developer {
-  linguagens = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
-  bibliotecas = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
+  languages = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
+  libraries = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
   frameworks = ["React", "Flutter", "Angular", "Spring Boot"];
-  ferramentas = ["Git", "Docker"];
-  bancosDeDados = ["MySQL", "PostgreSQL", "MongoDB", "SQLite"];
+  tools = ["Git", "Docker"];
+  databases = ["MySQL", "PostgreSQL", "MongoDB", "SQLite"];
   }
 
 ```
