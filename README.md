@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### ☕ Kevyn Rodrigues | 🇺🇸 Software Engineering Student 
-</br>
 
 <p align="left">🇧🇷 Com uma forte paixão pela Programação, estou em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
 
