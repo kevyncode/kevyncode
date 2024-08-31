@@ -1,18 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Kevyn Rodrigues | Software Engineering Student 🇺🇸
+### ☕ Kevyn Rodrigues | 🇺🇸 Software Engineering Student 
+</br>
 
 <p align="left">🇧🇷 Com uma forte paixão pela Programação, estou em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
 
 <p align="left">🇺🇸 With a strong passion for programming, I am seeking opportunities to enhance my skills and contribute to innovative projects.</p>
 
-### Where to find me
+</br>
+
+### 🌐 Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Kevyncode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyncode/)](https://www.linkedin.com/in/kevyncode/)
 [![Gmail Badge](https://img.shields.io/badge/-kevyncodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:kevyncodes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kevyncode?label=follow&style=social)](https://github.com/kevyncode)
 
-### My Skills
+### 🚀 My Skills
 
 ```js
 import Desenvolvedor from "KevynCode";
@@ -27,7 +30,7 @@ class Skills extends Desenvolvedor {
 
 ```
 
-### GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <table>
   <tr>
