@@ -17,9 +17,9 @@
 ### 🚀 My Skills
 
 ```js
-import Desenvolvedor from "KevynCode";
+import Developer from "KevynCode";
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   linguagens = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
   bibliotecas = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
   frameworks = ["React", "Flutter", "Angular", "Spring Boot"];
