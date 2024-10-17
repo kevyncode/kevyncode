@@ -2,9 +2,9 @@
 
 ### ☕ Kevyn Rodrigues | 🇺🇸 Software Engineering Student 
 
-<p align="left">🇧🇷 Com uma forte paixão pela Programação, estou em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
+<p align="left">🇧🇷 Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas linguagens de programação e ferramentas de desenvolvimento. Busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores e inovadores.</p>
 
-<p align="left">🇺🇸 With a strong passion for programming, I am seeking opportunities to enhance my skills and contribute to innovative projects.</p>
+<p align="left">🇺🇸 I am a developer passionate about technology, with experience in various programming languages and development tools. I am constantly seeking to improve my skills and contribute to challenging and innovative projects.</p>
 
 </br>
 
