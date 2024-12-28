@@ -29,34 +29,15 @@ class Skills extends Developer {
 
 ```
 
-### ⚙️ GitHub Analytics
+---
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kevyncode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+### ⚙️ GitHub Analytics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyncode&theme=dark&hide_border=false&layout=compact)  
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevyncode&layout=compact&theme=dark&hide_border=false)
 
 --- 
 
