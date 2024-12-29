@@ -37,7 +37,7 @@ class Skills extends Developer {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyncode&theme=dark&hide_border=false&layout=compact)  
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevyncode&layout=compact&theme=dark&hide_border=false)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kevyncode&layout=compact&theme=dark&hide_border=false)
 
 --- 
 
