@@ -2,11 +2,7 @@
 
 ### ☕ Kevyn Rodrigues | 🇺🇸 Software Engineering Student 
 
-<p align="left">🇧🇷 Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas linguagens de programação e ferramentas de desenvolvimento. Busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores e inovadores.</p>
-
-<p align="left">🇺🇸 I am a developer passionate about technology, with experience in various programming languages and development tools. I am constantly seeking to improve my skills and contribute to challenging and innovative projects.</p>
-
-</br>
+<p align="left">Sempre em busca de aprendizado e aprofundamento em temas de interesse, com foco e dedicação no desenvolvimento de projetos.</p>
 
 ### 🌐 Where to find me
 
@@ -22,7 +18,7 @@ import Developer from "KevynCode";
 class Skills extends Developer {
   languages = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
   libraries = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
-  frameworks = ["React", "Flutter", "Angular", "Spring Boot"];
+  frameworks = ["React", "Flutter", "NextJS", "Spring Boot"];
   tools = ["Git", "Docker"];
   databases = ["MySQL", "PostgreSQL", "MongoDB", "SQLite"];
   }
