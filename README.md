@@ -52,7 +52,9 @@ class Skills extends Developer {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevyncode" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-%232ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work badge" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-%232ea44f?style=for-the-badge&logo=github&logoColor=white" 
+         alt="Open to Work badge" 
+         style="box-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff;" />
   </a>
 </p>
 
