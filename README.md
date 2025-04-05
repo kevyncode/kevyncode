@@ -27,13 +27,14 @@ class Skills extends Developer {
 
 ---
 
-### ⚙️ GitHub Analytics  
+<h3>⚙️ GitHub Analytics</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true)  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kevyncode&layout=compact&theme=dark" alt="WakaTime Stats" style="width: 290px;" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyncode&theme=dark&hide_border=false&layout=compact)  
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kevyncode&layout=compact&theme=dark)
 
 --- 
 
@@ -42,6 +43,15 @@ class Skills extends Developer {
 <p align="start">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=kevyncode&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevyncode" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-%232ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work badge" />
   </a>
 </p>
 
