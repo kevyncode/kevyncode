@@ -6,7 +6,7 @@
 
 ### 🌐 Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-Kevyncode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyncode/)](https://www.linkedin.com/in/kevyncode/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyncode/)](https://www.linkedin.com/in/kevyncode/)
 [![Gmail Badge](https://img.shields.io/badge/-kevyncodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:kevyncodes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kevyncode?label=follow&style=social)](https://github.com/kevyncode)
 
@@ -16,8 +16,8 @@
 import Developer from "KevynCode";
 
 class Skills extends Developer {
-  languages = ["Python", "Java", "C#", "C++", "JavaScript", "PHP"];
-  libraries = ["Bootstrap", "jQuery", "Laravel", "Pandas"];
+  languages = ["Python", "Java", "C#", "C++", "JavaScript", "TypeScript"];
+  libraries = ["Bootstrap", "jQuery", "Laravel", "Pandas", "NextUI", "FramerMotion"];
   frameworks = ["React", "Flutter", "NextJS", "Spring Boot"];
   tools = ["Git", "Docker"];
   databases = ["MySQL", "PostgreSQL", "MongoDB", "SQLite"];
