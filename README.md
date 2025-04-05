@@ -29,10 +29,12 @@ class Skills extends Developer {
 
 <h3>⚙️ GitHub Analytics</h3>
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kevyncode&layout=compact&theme=dark" alt="WakaTime Stats" style="width: 290px;" />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kevyncode&layout=compact&theme=dark" alt="WakaTime Stats" style="width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevyncode&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" style="width: 500px; height: 350px; object-fit: cover;" />
 </div>
+
+
 
 
 
