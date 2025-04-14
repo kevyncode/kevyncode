@@ -40,13 +40,18 @@ class Skills extends Developer {
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Github Trophies
 
 <p align="start">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=kevyncode&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+  <a href="https://github.com/kevyncode">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=kevyncode&theme=radical&no-frame=true&no-bg=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=kevyncode&no-frame=true&no-bg=true" />
+      <img width="800" alt="trophy" src="troophy.svg" style="display:block; margin:auto; background: transparent;" />
+    </picture>
   </a>
 </p>
+
 
 ---
 
